@@ -1,0 +1,12 @@
+C:\Users\it-student.MEPHI3.003\Desktop\DemoExams\DemoExams\DemoExams\obj\Debug\DemoExams.csprojResolveAssemblyReference.cache
+C:\Users\it-student.MEPHI3.003\Desktop\DemoExams\DemoExams\DemoExams\obj\Debug\DemoExams.fmGrid.resources
+C:\Users\it-student.MEPHI3.003\Desktop\DemoExams\DemoExams\DemoExams\obj\Debug\DemoExams.fmLogin.resources
+C:\Users\it-student.MEPHI3.003\Desktop\DemoExams\DemoExams\DemoExams\obj\Debug\DemoExams.Properties.Resources.resources
+C:\Users\it-student.MEPHI3.003\Desktop\DemoExams\DemoExams\DemoExams\obj\Debug\DemoExams.csproj.GenerateResource.cache
+C:\Users\it-student.MEPHI3.003\Desktop\DemoExams\DemoExams\DemoExams\obj\Debug\DemoExams.csproj.CoreCompileInputs.cache
+C:\Users\it-student.MEPHI3.003\Desktop\DemoExams\DemoExams\DemoExams\bin\Debug\DemoExams.exe.config
+C:\Users\it-student.MEPHI3.003\Desktop\DemoExams\DemoExams\DemoExams\bin\Debug\DemoExams.exe
+C:\Users\it-student.MEPHI3.003\Desktop\DemoExams\DemoExams\DemoExams\bin\Debug\DemoExams.pdb
+C:\Users\it-student.MEPHI3.003\Desktop\DemoExams\DemoExams\DemoExams\obj\Debug\DemoExams.exe
+C:\Users\it-student.MEPHI3.003\Desktop\DemoExams\DemoExams\DemoExams\obj\Debug\DemoExams.pdb
+C:\Users\it-student.MEPHI3.003\Desktop\DemoExams\DemoExams\DemoExams\obj\Debug\DemoExams.fmAdd.resources
